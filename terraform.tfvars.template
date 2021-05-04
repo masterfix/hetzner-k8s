@@ -1,0 +1,5 @@
+hcloud_token = ""
+machines     = ["node1", "node2", "node3"]
+ssh_keys = {
+    "patrik@carbonite" = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDG4ffcAoK8g/CSOQDaKoZag/DiRFee1Acm4UHZjnzDEVKFrePbwVh+DeMQp3VpVn4ArpNnVdmdq42uHBG5HN+I3Tk4ywKTCz66rx5Po2kCOoQtfp9WgIhxCtOyQwsVmQtzofjYn2+4Xqo9Wn+AkYUy0FQC4YkKdShvqQ/cFRKBkgw9C4w48C281vnmiPKi2ZNR2N4KaYJspF0gIfaiHoTJymdd0EBJQrg3yi/Xh2cd5DRi0xA/w3JN6rBe8u1FxM6pQzIQhhR1WMeGbN0+MA98Is2w2ESfqeCqCll45RKXlT1pa+AyKfCCSG37CxuWirXzHSQValMcu1eIiREReGPdfmSQVGyfzVsbaDgZF9EqI0DhMm8ZNyOHWPqKEj8ys61FUfYe04AXc3sSFjihUHSTrq29dfC78bqVfh0LJZ7KnGa5S57lO9Hazp9rmqwVN8FE9/AVnmSTpbHVKpGc5rRPhOz/0qzfgwrE3p5dfUBPqMevsYjEprUkSB+WxMY2MNU= patrik@carbonite"
+}

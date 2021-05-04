@@ -1,0 +1,7 @@
+---
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys: %{ for name, key in ssh_keys }
+        - ${key}
+        %{ endfor ~}
